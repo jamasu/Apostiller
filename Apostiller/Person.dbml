@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="Apostiller" Class="PersonDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=sql-server;Initial Catalog=Apostiller;Persist Security Info=True;User ID=sa" SettingsObjectName="Apostiller_Project.Properties.Settings" SettingsPropertyName="ApostillerConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.apostille" Member="apostilles">
+    <Type Name="apostille">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="title" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="capacity" Type="System.String" DbType="NVarChar(35)" CanBeNull="true" />
+      <Column Name="doc" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="about" Type="System.String" DbType="NVarChar(65)" CanBeNull="true" />
+      <Column Name="sig" Type="System.String" DbType="NVarChar(6)" CanBeNull="true" />
+      <Column Name="country" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="office" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+</Database>

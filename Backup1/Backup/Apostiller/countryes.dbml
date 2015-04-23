@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="Apostiller" Class="countryesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=sql-server;Initial Catalog=Apostiller;Persist Security Info=True;User ID=sa" SettingsObjectName="Apostiller_Project.Properties.Settings" SettingsPropertyName="ApostillerConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.countryes" Member="countryes">
+    <Type Name="countrye">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

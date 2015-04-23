@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="Apostiller" Class="PreferenceDbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=sql-server;Initial Catalog=Apostiller;Persist Security Info=True;User ID=sa" SettingsObjectName="Apostiller_Project.Properties.Settings" SettingsPropertyName="ApostillerConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.preference" Member="preferences">
+    <Type Name="preference">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="pref_capacity" Type="System.String" DbType="NVarChar(65)" CanBeNull="true" />
+      <Column Name="pref_doc" Type="System.String" DbType="NVarChar(65)" CanBeNull="true" />
+      <Column Name="pref_office" Type="System.String" DbType="NVarChar(65)" CanBeNull="true" />
+      <Column Name="pref_county" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="pref_city" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
