@@ -4,14 +4,14 @@
   <description asmv2:publisher="Fylkesmannen i Oslo og Akershus" co.v1:suiteName="Apostiller" asmv2:product="Apostiller" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" co.v1:createDesktopShortcut="true" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Apostiller.exe.manifest" size="4307">
+    <dependentAssembly dependencyType="install" codebase="Apostiller.exe.manifest" size="5368">
       <assemblyIdentity name="Apostiller.exe" version="1.0.0.7" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>1voVwsQhNenc5ul4QEKPSgfkOTs=</dsig:DigestValue>
+        <dsig:DigestValue>zqxDYHaAs4X0x21daeRCwoPGCq4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

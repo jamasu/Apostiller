@@ -45,5 +45,17 @@ E:\Fylkesmannen\Mine dokumenter\Visual Studio 2008\Projects\Apostiller\Backup1\A
 E:\Fylkesmannen\Mine dokumenter\Visual Studio 2008\Projects\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.application
 E:\Fylkesmannen\Mine dokumenter\Visual Studio 2008\Projects\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.csprojResolveAssemblyReference.cache
 C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\bin\Release\Apostiller.exe.config
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\bin\Release\Apostiller.exe.manifest
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\bin\Release\Apostiller.application
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\bin\Release\Apostiller.exe
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\bin\Release\Apostiller.pdb
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.csprojResolveAssemblyReference.cache
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller_Project.Apostiller.resources
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller_Project.Form2.resources
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller_Project.Preference.resources
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller_Project.Properties.Resources.resources
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.csproj.GenerateResource.Cache
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.exe.manifest
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.application
 C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.exe
 C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.pdb
