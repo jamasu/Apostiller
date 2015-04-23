@@ -44,3 +44,6 @@ E:\Fylkesmannen\Mine dokumenter\Visual Studio 2008\Projects\Apostiller\Backup1\A
 E:\Fylkesmannen\Mine dokumenter\Visual Studio 2008\Projects\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.exe.manifest
 E:\Fylkesmannen\Mine dokumenter\Visual Studio 2008\Projects\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.application
 E:\Fylkesmannen\Mine dokumenter\Visual Studio 2008\Projects\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.csprojResolveAssemblyReference.cache
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\bin\Release\Apostiller.exe.config
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.exe
+C:\Users\suja\Documents\Apostiller\Backup1\Apostiller\obj\Release\Apostiller.pdb
